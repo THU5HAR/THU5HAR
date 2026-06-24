@@ -241,16 +241,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=THU5HAR&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Thushar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THU5HAR\&theme=tokyo-night)](https://github.com/THU5HAR)
