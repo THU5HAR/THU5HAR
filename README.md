@@ -125,7 +125,7 @@
 
 ---
 
-### 🌐 Frontend Developer Intern
+### 🌐 MERN Stack Developer Intern
 
 **VisionAstraa EV Academy** | Feb 2026 – May 2026
 
