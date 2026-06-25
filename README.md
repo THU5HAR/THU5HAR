@@ -34,7 +34,7 @@
 
 💼 Java Full Stack Developer Intern at TAP Academy
 
-🌐 Former Frontend Developer Intern at VisionAstraa EV Academy
+🌐 Former MERN Stack Developer Intern at VisionAstraa EV Academy
 
 📍 Bengaluru, Karnataka, India
 
