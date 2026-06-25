@@ -1,18 +1,12 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Thushar Sathish Bhandary
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Thushar Sathish Bhandary
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;Software+Engineer;Building+Scalable+Applications;Always+Learning+Always+Building" />
+### 🚀 Java Full Stack Developer | MERN Stack Developer | Software Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MERN+Stack;Building+Scalable+Web+Applications;Always+Learning+and+Building" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=THU5HAR&label=Profile+Views&color=36BCF7&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/THU5HAR?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/THU5HAR?style=for-the-badge&logo=github"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/thushar-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,7 +20,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://thu5har.github.io/Portfolio/">
+<a href="https://thu5har.github.io/Portfolio">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -34,119 +28,84 @@
 
 ---
 
-## 🚀 Why Hire Me?
-
-✔ Strong Foundation in Java Full Stack Development
-
-✔ Experience with Spring Boot, React, MERN Stack & REST APIs
-
-✔ Full Stack + Data Analytics Skillset
-
-✔ Experience Working on Real Projects & Internships
-
-✔ Passionate About Software Architecture & System Design
-
-✔ Quick Learner with Production-Oriented Development Mindset
-
----
-
-## ⚡ Quick Facts
-
-| 🏷️ Category    | 📌 Details                                      |
-| --------------- | ----------------------------------------------- |
-| 🎓 Degree       | B.E. Computer Science Engineering               |
-| 📍 Location     | Bengaluru, Karnataka                            |
-| 💼 Current Role | Java Full Stack Developer Intern                |
-| 🌱 Learning     | Microservices & System Design                   |
-| 🚀 Interests    | Full Stack, Backend Engineering, AI & Analytics |
-| ⚡ Motto         | Turning Ideas into Scalable Software Solutions  |
-
----
-
 ## 👨‍💻 About Me
 
-```yaml
-Name: Thushar Sathish Bhandary
-Role: Software Engineer
-Education: B.E Computer Science
-Location: Bengaluru, India
+🎓 Computer Science Engineering Graduate (2026)
 
-Currently Working On:
-  - Spring Boot Applications
-  - MERN Stack Projects
-  - Data Analytics Projects
-  - System Design
+💼 Java Full Stack Developer Intern at TAP Academy
 
-Areas of Interest:
-  - Full Stack Development
-  - Backend Engineering
-  - Software Architecture
-  - Data Analytics
-  - Artificial Intelligence
-```
+🌐 Former Frontend Developer Intern at VisionAstraa EV Academy
+
+📍 Bengaluru, Karnataka, India
+
+🔥 Passionate about building scalable web applications, backend systems, and user-friendly digital experiences.
+
+🚀 Currently working with Spring Boot, React, Docker, JWT Authentication, REST APIs, and Cloud Deployment.
+
+📈 Strong interest in:
+
+* Full Stack Development
+* Backend Engineering
+* Software Architecture
+* Data Analytics
+* AI & Machine Learning
+* System Design
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ### 🎨 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🚀 DevOps & Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,vscode" />
 </p>
 
-### 📊 Analytics & AI
+### 🤖 Data Analytics & AI
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=THU5HAR&theme=tokyonight&row=1&column=7&margin-w=15" />
-</p>
-
----
-
-## 🚧 Currently Building
-
-* 🏥 Centralized Patient & Resource Management System
-* 🔗 Blockchain-Based Medicine Verification Platform
-* 📊 Interactive Data Analytics Dashboards
-* ☁️ Cloud-Deployed Spring Boot Applications
-* 🐳 Dockerized Full Stack Solutions
 
 ---
 
@@ -154,23 +113,29 @@ Areas of Interest:
 
 ### 💻 Java Full Stack Developer Intern
 
-**TAP Academy**
+**TAP Academy** | Feb 2026 – Present
 
-* Building enterprise-grade applications using Java, Spring Boot, React, and MySQL
-* Implementing JWT Authentication and RBAC
-* Developing REST APIs and backend services
-* Working with Docker, Maven, Git, and deployment workflows
+✔ Building enterprise-grade applications using Java, Spring Boot, React, MySQL
+
+✔ Implementing JWT Authentication & RBAC
+
+✔ Working with Docker, REST APIs, Git, Maven, and Cloud Deployment
+
+✔ Following industry-standard software engineering practices
 
 ---
 
 ### 🌐 Frontend Developer Intern
 
-**VisionAstraa EV Academy**
+**VisionAstraa EV Academy** | Feb 2026 – May 2026
 
-* Developed responsive React applications
-* Converted Figma designs into production-ready interfaces
-* Worked with MERN Stack integrations
-* Built map-based features using React Leaflet
+✔ Developed frontend interfaces using React
+
+✔ Converted Figma designs into responsive applications
+
+✔ Extended project into a complete MERN Stack solution
+
+✔ Integrated map-based features using React Leaflet
 
 ---
 
@@ -180,26 +145,11 @@ Areas of Interest:
 
 **Tech Stack:** Spring Boot • React • PostgreSQL • JWT • WebSocket • Docker
 
-✨ Features
-
+* Role-Based Access Control
 * JWT Authentication
-* Role Based Access Control
-* Real Time Exam Monitoring
-* Automated Evaluation
-* Secure Online Examination Workflow
-
----
-
-### 💊 Blockchain Medicine Counterfeit Prevention
-
-**Tech Stack:** React • Node.js • JavaScript
-
-✨ Features
-
-* Product Verification
-* Hash Based Validation
-* Medicine Tracking
-* Counterfeit Detection Workflow
+* Real-Time Monitoring
+* Automated Evaluation System
+* Cloud Deployment
 
 ---
 
@@ -207,12 +157,20 @@ Areas of Interest:
 
 **Tech Stack:** MERN Stack • React Leaflet
 
-✨ Features
+* Locate nearby EV charging stations
+* Interactive maps
+* Real-time station availability
+* RESTful APIs
 
-* Interactive Maps
-* Station Search
-* Real Time Availability
-* Location Based Recommendations
+---
+
+### 💊 Blockchain-Based Medicine Counterfeit Prevention
+
+**Tech Stack:** React • Node.js • JavaScript
+
+* Medicine authenticity verification
+* Blockchain-inspired hash verification
+* Product tracking workflow
 
 ---
 
@@ -220,26 +178,28 @@ Areas of Interest:
 
 **Tech Stack:** Python • Pandas • NumPy • Plotly
 
-✨ Features
-
-* Analysis of 7.7M+ Records
-* Trend Detection
-* Interactive Dashboards
-* Accident Hotspot Identification
+* Analyzed 7.7M+ accident records
+* Built interactive dashboards
+* Generated actionable traffic insights
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Completed Multiple Industry Job Simulations
+🥇 Completed 5+ Industry Job Simulations
 
-🥇 Worked Across Frontend and Full Stack Development Roles
+🥇 Simultaneously contributed to Full Stack and Frontend internships
 
-🥇 Built Multiple End-to-End Applications
+🥇 Built multiple production-ready applications
 
-🥇 Analyzed 7.7+ Million Real World Records
+🥇 Analyzed over 7.7 Million real-world records
 
-🥇 Active Contributor Across Multiple Public Repositories
+🥇 Maintains multiple public GitHub repositories covering:
+
+* Full Stack Development
+* Data Analytics
+* Machine Learning
+* UI/UX Design
 
 ---
 
@@ -263,101 +223,72 @@ Areas of Interest:
 
 ---
 
-## 📈 Career Timeline
-
-```text
-2024 ─ Started Web Development Journey
-
-2025 ─ MERN Stack Development
-
-2025 ─ Blockchain Project Development
-
-2025 ─ Large Scale Data Analytics Projects
-
-2026 ─ Frontend Developer Intern
-
-2026 ─ Java Full Stack Developer Intern
-
-Present ─ Building Production Ready Software
-```
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THU5HAR&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THU5HAR&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=THU5HAR&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=THU5HAR&theme=tokyo-night"/>
-</p>
-
----
-
-## 💡 Core Competencies
-
-```text
-Java & Spring Boot       ██████████ 90%
-Backend Development      ██████████ 90%
-React Development        █████████  85%
-Database Design          ████████   80%
-Data Analytics           ████████   80%
-System Design            ██████     65%
-```
-
----
-
-## 🎯 2026 Goals
-
-✅ Master Advanced Spring Boot
-
-✅ Learn Microservices Architecture
-
-✅ Strengthen DSA & Problem Solving
-
-✅ Deploy More Production Applications
-
-✅ Expand Data Analytics Portfolio
-
-✅ Contribute More to Open Source
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:thusharbhandary2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thushar-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://thu5har.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
-</a>
 
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Thushar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THU5HAR\&theme=tokyo-night)](https://github.com/THU5HAR)
+
+---
+
+## 🎯 Current Focus
+
+🔹 Spring Boot Advanced Concepts
+
+🔹 Microservices Architecture
+
+🔹 System Design
+
+🔹 Docker & Cloud Deployment
+
+🔹 Data Structures & Algorithms
+
+🔹 Building Production-Ready Full Stack Applications
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Science)**
+
+Yenepoya Institute of Technology
+
+CGPA: **8.35 / 10**
+
+Graduation: **2026**
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: **[thusharbhandary2004@gmail.com](mailto:thusharbhandary2004@gmail.com)**
+
+💼 LinkedIn: **linkedin.com/in/thushar-dev**
+
+🌐 Portfolio: **thu5har.github.io/Portfolio**
+
+🐙 GitHub: **github.com/THU5HAR**
 
 ---
 
 <div align="center">
 
-### ⚡ Turning Ideas Into Scalable Software Solutions
-
-⭐ If you like my work, consider following my journey!
+### ⚡ "Turning Ideas into Scalable Software Solutions"
 
 </div>
